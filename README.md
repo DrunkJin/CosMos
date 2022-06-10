@@ -8,6 +8,8 @@
 </p>
 
 >  일하더라도 코테!
+>  UsefulLibrary.py에는 코테에 유용한 기본 라이브러리가 정리되어 있음
+>  폴더에 들어가보면 readme.md 파일이 폴더 내부에 뜨는데 문제제목을 클릭하면 해당 문제로 접속됨
 
 ## 🚀 참가자
 :man_technologist:  DrunkJin
