@@ -95,7 +95,7 @@ ex) update p86051.py (add enumerate method)
 
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
-|DrunkJin|||---|---|---|
-|jeeuney|||---|---|---|
-|brain4652|||---|---|---|
+|DrunkJin||||||
+|jeeuney||||||
+|brain4652||||||
 
