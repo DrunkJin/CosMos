@@ -91,11 +91,11 @@ ex) update p86051.py (add enumerate method)
 * README.md : update README.md
 
 ## Study Status
-### week1
+### week1 (22.06.10 Fri Start!)
 
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
-|DrunkJin||||||
+|DrunkJin|||||:white_check_mark:|
 |jeeuney||||||
 |brain4652||||||
 
