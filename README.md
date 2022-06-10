@@ -1,59 +1,49 @@
-* 규칙은 천천히 퇴근 후 정하기로
-
-
-
-
 <h1 align="center"> CosMos </h1>
 <h3 align="center">코딩 스터디 모여라 스터디</h3>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/dongho108/breaking-codingtest" target="_blank">
+  <a href="https://github.com/DrunkJin/CosMos" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
 </p>
 
->  코테를 부시자. 코테를 탈출하자.
+>  일하더라도 코테!
 
-## WKWKs
-> 22 <br>
-> 스터디 깃허브 양식과 자세한 진행방법이 궁금하신 분은 ```hood63@naver.com``` 으로 메일을 남겨주세요. <br>
-
-
-## 🚀 1기 수료자 아웃풋
-:man_technologist:  서진
+## 🚀 참가자
+:man_technologist:  DrunkJin
 <br>
-뿌아앙
+렛츠기릿
 <br>
 
-:woman_technologist:  지은
+:woman_technologist:  jeeuney
 <br>
 평촌왕
 <br>
 
-:man_technologist:  광호
+:man_technologist:  brain4652
 <br>
-부루룰ㅇ
+풀스택..?
 <br>
 
 ## Skill
-> Python 3.7 <br>
+> Python <br>
 
 
 ## Author
 
-:man_technologist:  api_dev
+:man_technologist:  DrunkJin
 
-* github : https://github.com/dongho108
-* blog: https://ksabs.tistory.com
+* github : https://github.com/DrunkJin
+* blog: https://sig413.tistory.com
 
-:woman_technologist:  konrini
+:woman_technologist:  jeeuney
 
-* github : https://github.com/konrini
+* github : https://github.com/jeeuney
 * blog: https://konrini.tistory.com
 
-:man_technologist:  koalakid1
+:man_technologist:  brain4652
 
-* github : https://github.com/koalakid1
+* github : https://github.com/brain4652
 
 ## About Study
 더 좋은 개발자로 거듭나기 위한 알고리즘 스터디입니다.
@@ -61,13 +51,13 @@
 서로의 코드를 배우고 알려주며 모두가 같이 성장합니다.
 <br>
 
-## 지원회사
+<!-- ## 지원회사
 |ID|날짜|회사|결과발표|합격|불합격|
 |---|---|------|---|---|---|
 |konrini|09/27|CJ 올리브네트웍스|11/25||:heavy_check_mark:|
 |konrini|09/30|LG CNS|11/09||:heavy_check_mark:|
 |api_dev|11/06|우아한테크코스|11/19|:heavy_check_mark:||
-<br>
+<br> -->
 
 ## :fire: mind set :fire:
 1. 내 코드보다 동료의 코드가 더 좋다면 배웁니다.
@@ -83,7 +73,7 @@
 * 주말에는 밀린 과제가 있다면 제출해야 합니다. (의무)
 * 밀린 과제를 주말에 해도 패널티가 상쇄되지는 않습니다.
 * 스터디원 모두가 완료했을때 가장 늦게 제출한 스터디원이 해당 문제의 Issue를 Close합니다.
-* 한달에 한번 패널티를 정산해 문제당 1,000원을 입금합니다.
+<!-- * 한달에 한번 패널티를 정산해 문제당 1,000원을 입금합니다. -->
 
 ### Study progress
 1. 번갈아가며 다음날에 풀 문제를 정합니다. 문제가 정해지면 Issue에 추가합니다. <br>
@@ -105,78 +95,7 @@ ex) update p86051.py (add enumerate method)
 
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
-|api_dev|||:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|konrini|||:white_check_mark:|:white_check_mark:|:white_check_mark:|
-
-### week2
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|koalakid1||||:white_check_mark:|:white_check_mark:|
-
-### week3
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|konrini|:white_check_mark:|:white_check_mark:|:white_check_mark:||:white_check_mark:|
-|koalakid1|:white_check_mark:||:white_check_mark:|:white_check_mark:|:white_check_mark:|
-
-### week4 (11/01~11/05)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|konrini|:white_check_mark:|:white_check_mark:||:white_check_mark:|:white_check_mark:|
-|koalakid1||:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-
-### week5 (11/08~11/12)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-|konrini|||:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-
-### week6 (11/15~11/19)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev||:white_check_mark:|:white_check_mark:|||
-|konrini||||:white_check_mark:||
-|koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:||
-
-### week7 - vacation 🥰
-
-### week8 (11/29~12/03)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-|konrini||:white_check_mark:|:white_check_mark:||:white_check_mark:|
-|koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-
-### week9 (12/06~12/10)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|||:white_check_mark:|||
-|konrini||||:white_check_mark:|:white_check_mark:|
-|koalakid1|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
-
-### week10 (12/13~12/17)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev|:white_check_mark:|||||
-|konrini||||||
-|koalakid1|:white_check_mark:|||||
-
-### week11 (12/20~12/24)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev||||||
-|konrini||||||
-|koalakid1||||||
-
-### week12 (12/27~12/31)
-|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
-|------|---|---|---|---|---|
-|api_dev||||||
-|konrini||||||
-|koalakid1||||||
+|DrunkJin|||---|---|---|
+|jeeuney|||---|---|---|
+|brain4652|||---|---|---|
 
