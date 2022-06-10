@@ -39,8 +39,8 @@
 :woman_technologist:  jeeuney
 
 * github : https://github.com/jeeuney
-* blog: https://konrini.tistory.com
-
+* blog: https://jeeuney.tistory.com/
+* 
 :man_technologist:  brain4652
 
 * github : https://github.com/brain4652
