@@ -1,13 +1,10 @@
-# CosMos(코딩 스터디 모여라 스터디)
-
-코딩테스트를 공부하자
-
 * 규칙은 천천히 퇴근 후 정하기로
 
 
 
 
-<h1 align="center"> Breaking Coding Test Study 1기 </h1>
+<h1 align="center"> CosMos </h1>
+<h3 align="center">코딩 스터디 모여라 스터디</h3>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/dongho108/breaking-codingtest" target="_blank">
