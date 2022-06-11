@@ -1,4 +1,4 @@
-[주사위 세개](https://www.acmicpc.net/problem/2480)
+# [주사위 세개](https://www.acmicpc.net/problem/2480)
 
 문제  
 1에서부터 6까지의 눈을 가진 3개의 주사위를 던져서 다음과 같은 규칙에 따라 상금을 받는 게임이 있다. 
