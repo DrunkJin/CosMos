@@ -101,3 +101,11 @@ ex) update p86051.py (add enumerate method)
 |jeeuney||||||
 |brain4652||||||
 
+### week2 (22.06.13 ~ 22.06.17)
+
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|DrunkJin||||||
+|jeeuney||||||
+|brain4652|:white_check_mark:|||||
+
