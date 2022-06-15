@@ -5,8 +5,10 @@ people = l*p
 
 news = list(map(lambda x : x - people, news))
 
-result = ''
-for i in news:
-    result += str(i)+" "
+result = " ".join(map(str, news))
+
+
+# for i in news:
+#     result += str(i)+" "
     
 print(result)
