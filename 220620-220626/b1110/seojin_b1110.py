@@ -1,3 +1,1 @@
-n = map(str, input().split())
-
-
+n = int(input())
