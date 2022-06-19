@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 l, p = map(int, input().split())
 news = list(map(int, input().split()))
 
