@@ -105,11 +105,23 @@ ex) update p86051.py (add enumerate method)
 
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|
 |------|---|---|---|---|---|
-<<<<<<< HEAD
-|DrunkJin|||:white_check_mark:|||
-=======
 |DrunkJin|||:white_check_mark:|:white_check_mark:||
->>>>>>> 4feadbc09774052dad486298b4cb99f1d226351b
 |jeeuney||||||
 |brain4652|:white_check_mark:|||||
+
+### week3 (22.06.20 ~ 22.06.26)
+
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|DrunkJin||||||
+|jeeuney||||||
+|brain4652||||||
+
+### week4 (22.06.27 ~ 22.07.03)
+
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|
+|------|---|---|---|---|---|
+|DrunkJin||||||
+|jeeuney||||||
+|brain4652||||||
 
