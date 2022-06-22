@@ -1,1 +1,0 @@
-wood = list(map(int, input().split()))
