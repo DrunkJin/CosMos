@@ -19,10 +19,7 @@ class Example:
                     new = int(str(split_num[1])+str(mid)[1])
             else:   # 한자리 수 일때 (0~99까지 범위이므로)
                 mid = split_num[0]
-                if mid < 10:
-                    new = int(str(split_num[0])+str(mid))
-                else:
-                    new = int(str(split_num[0])+str(mid)[0])
+                new = int(str(split_num[0])+str(mid))
 
             # 연산이 끝난 후 갱신 횟수 추가 및 init 변수 결과로 치환
             iter += 1    
