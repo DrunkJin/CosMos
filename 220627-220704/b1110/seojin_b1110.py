@@ -7,7 +7,6 @@ target = number
 count = 0
 
 while True:
-    print(number)
     if number == target & count != 0:
         print(count)
         break
@@ -16,7 +15,7 @@ while True:
         if number > 9:
             ten_digit = number // 10
             one_digit = number % 10
-            number = ten_digit + one_digit
+            number = (one_digit * 10) + (ten_digit + one_digit)%10
             count += 1
         else:
             number *= 10
