@@ -18,4 +18,5 @@ while True:
             number = (one_digit*10) + (ten_digit + one_digit)%10
             count += 1
         else:
-            number *= 10
+            number = int(str(number)+str(number))
+            count += 1
