@@ -78,7 +78,7 @@ Be the best!
 
 ## Study Plan
 ### Study Rule
-* 일주일에 최소 5문제를 풀기로 합니다.
+* 일주일에 최소 3문제를 풀기로 합니다.
 * 일요일 밤 11시 이전까지 문제를 제출해야 합니다.
 * 주말에는 밀린 과제가 있다면 제출해야 합니다. (의무)
 * 밀린 과제를 주말에 해도 패널티가 상쇄되지는 않습니다.
@@ -95,7 +95,7 @@ Be the best!
 
 ### commit message
 * 문제 add시 : add {QuestName}{.py} {#issueNum}\
-ex) add dh_p86051.py (#8)
+ex) add DrunkJin_p86051.py (#8)
 * 문제 update시 : update {QuestName}{.py} {(update내용 간단하게)}\
 ex) update p86051.py (add enumerate method)
 * README.md : update README.md|
