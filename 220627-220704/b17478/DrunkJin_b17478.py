@@ -35,7 +35,7 @@ def rewind_text(times, underbar, cnt):
         print("____"*underbar + text2)
         print("____"*underbar + text3)
         print("____"*underbar + text4)
-        return rewind_text(times-1, underbar+1, cnt)
+        return rewind_text(times-1, underbar+1, cnt) # 반복횟수를 하나씩 줄이고 underbar를 늘려가며 자기함수 호출
     else:
         print(f"times:{times}\nunderbar={underbar}\ncnt:{cnt}")
 
