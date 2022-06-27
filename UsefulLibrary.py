@@ -170,3 +170,15 @@ print(f"21과 14의 최대공약수 : {math.gcd(21,14)}")
 # 수학 상수도 제공
 print(f"파이(pi) : {math.pi}")
 print(f"자연상수 e : {math.e}")
+
+"""
+여러 줄의 입력을 받을 때는 sys.stdin.readline() 을 사용하자
+
+import sys
+
+a = sys.stdin.readline().strip()
+strip()을 통해서 문자열 앞뒤의 공백문자를 제거한다
+
+sys.stdin.readline().split()
+빈칸을 기준으로 구분하고 리스트형태로 들어온다.
+"""
