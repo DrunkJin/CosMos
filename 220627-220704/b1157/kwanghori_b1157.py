@@ -4,20 +4,23 @@ class Example:
         self.word = data
 
     def sol(self):
-        if len(self.word) == 1:   # 한 글자의 단어 입력 시 바로 결과 출력
-            return print(self.word.upper())
-            
-        word = self.word.upper()  # 단어 대문자 변환
+        word = self.word.upper()           
         dic = dict()
-        for idx in range(len(word)):
-            if word[idx] in dic.keys():
-                dic[word[idx]] += 1
+
+        if len(word) == 1:     # 모두 한 글자 단어 입력 시 결과 출력
+            return print(word)
+        
+        for tok in list(word):
+            if tok in dic.keys():
+                dic[tok] += 1
             else:
-                dic[word[idx]] = 1
+                dic[tok] = 1
 
-        result = sorted(dic.items(), key=lambda x : x[1], reverse=True)
+        result = sorted(dic.items(), key=lambda x : x[1], reverse=True)     # result = [(alphabet1, value1), (alphabet2, value2), ...] 형태로 반환
 
-        if result[0][1] == result[1][1]:
+        if len(set(word)) == 1:     # 모두 같은 글자일 경우
+            print(word[0])
+        elif result[0][1] == result[1][1]:  # 가장 많이 사용된 알파벳이 두개 이상인 경우
             print('?')
         else:
             print(result[0][0])
