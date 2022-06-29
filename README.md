@@ -54,6 +54,7 @@ Be the best!
 
 :woman_technologist:  likelion-Jiyeong
 * github : https://github.com/likelion-Jiyeong
+* blog: https://velog.io/@dev_juloaa43
 
 ## About Study
 더 좋은 개발자로 거듭나기 위한 알고리즘 스터디입니다.
