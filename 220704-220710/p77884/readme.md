@@ -7,7 +7,7 @@
 left부터 right까지의 모든 수들 중에서, 약수의 개수가 짝수인 수는 더하고, 약수의 개수가 홀수인 수는 뺀 수를 return 하도록 solution 함수를 완성해주세요.</br>
 
 제한사항</br>
-1 ≤ left ≤ right ≤ 1,000</br>
+1 ≤ left ≤ right ≤ 1,000</br></br>
 입출력 예</br>
 left	right	result</br>
 13	17	43</br>
