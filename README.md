@@ -51,7 +51,7 @@ Be the best!
 :man_technologist:  brain4652
 
 * github : https://github.com/brain4652
-
+* blog: https://kwanghori.tistory.com/
 :woman_technologist:  likelion-Jiyeong
 * github : https://github.com/likelion-Jiyeong
 * blog: https://velog.io/@dev_juloaa43
