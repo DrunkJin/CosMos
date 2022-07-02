@@ -24,7 +24,7 @@ def solution(new_id):
     # 6단계: 앞부터 문자열 15개 슬라이싱
     if len(result) > 15: result = result[:15]   
 
-    result = result.strip('.')  # 4단계 실행
+    result = result.strip('.')  # 4단계 재실행: 슬라이싱 후 문자열 끝에 .이 있는 경우가 있음
 
     # 7단계: 마지막 글자를 글자수 3이 될때까지 붙여넣기
     if len(result) <= 2:
