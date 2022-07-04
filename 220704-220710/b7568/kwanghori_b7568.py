@@ -4,7 +4,7 @@ class example:
         self.array = array
 
     def sol(self):
-        records = ()    # 등수를 저장
+        records = []   # 등수를 저장
         for tup_1 in self.array:    #등수를 판별할 데이터
             k = 1
             for tup_2 in self.array:    # 비교 데이터
