@@ -9,13 +9,12 @@ def solution(nums):
             for k in range(j+1, len(nums)):
                 array.append(nums[i]+nums[j]+nums[k])
     
-    for value in array:     # 2 ~ value 까지 나눗셈 중간에 한번이라도 나머지가 없을경우 break 모두 다 마치고 나오면 cnt += 1 (else 중요!!!)
+    for value in array:     # 2 ~ value 까지 나눗셈 중간에 한번이라도 나머지가 없을경우 break 
         for n in range(2,value):
             if value % n == 0:
                 break
-        else: cnt += 1
-    
-    
+        else: cnt += 1  # break없이 모두 다 마치고 나오면 cnt += 1 (else 중요!!!)
+
     return cnt
                 
     
