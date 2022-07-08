@@ -6,7 +6,7 @@ def solution(record):
         result.append(i.split())
     
     for x in result:
-        if len(x) == 3:
+        if len(x) == 3:     # Enter와 Change의 경우 딕셔너리가 update 되야함
             dict_id[x[1]] = x[2]
 
     for x in result:
