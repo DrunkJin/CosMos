@@ -144,7 +144,7 @@ ex) update p86051.py (add enumerate method)
 |------|---|---|---|---|---|---|---|
 |DrunkJin|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|||
 |jeeuney|||||:white_check_mark:|||
-|brain4652|:white_check_mark:|:white_check_mark:||||||
+|brain4652|:white_check_mark:|:white_check_mark:||||:white_check_mark:||
 |likelion-Jiyeong||:white_check_mark:|:white_check_mark:|||||
 
 
