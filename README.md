@@ -156,6 +156,15 @@ ex) update p86051.py (add enumerate method)
 |brain4652||||||:white_check_mark:||
 |likelion-Jiyeong||:white_check_mark:|:white_check_mark:||:white_check_mark:|||
 
+### week7 (22.07.18 ~ 22.07.24)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
+|------|---|---|---|---|---|---|---|
+|DrunkJin||||||||
+|jeeuney||||||||
+|brain4652||||||||
+|likelion-Jiyeong|||||||| 
+
+
 <!-- 체크표 양식
 ### week6 (22.07.11 ~ 22.07.17)
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
