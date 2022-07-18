@@ -173,7 +173,7 @@ ex) update p86051.py (add enumerate method)
 |jeeuney||||||||
 |brain4652|:white_check_mark:|||||||
 |likelion-Jiyeong|:white_check_mark:||||||| 
-|minyoung2123|||||||| 
+|minyoung2123|:white_check_mark:||||||| 
 
 
 
