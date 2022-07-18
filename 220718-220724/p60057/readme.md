@@ -14,12 +14,14 @@
 s의 길이는 1 이상 1,000 이하입니다.<br>
 s는 알파벳 소문자로만 이루어져 있습니다.<br>
 |입출력|예|
+|--|--|
 |s|result|
 |"aabbaccc"|7|
 |"ababcdcdababcdcd"|9|
 |"abcabcdede"|8|
 |"abcabcabcabcdededededede"|14|
 |"xababcdcdababcdcd"|17|
+
 <br>
 입출력 예에 대한 설명  
 입출력 예 #1  
