@@ -34,7 +34,7 @@ Be the best!
 
 :woman_technologist:  minyoung2123
 <br>
-Minyoung!
+코린이 응애
 <br>
 
 ## Skill
