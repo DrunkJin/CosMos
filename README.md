@@ -162,7 +162,7 @@ ex) update p86051.py (add enumerate method)
 |DrunkJin||||||||
 |jeeuney||||||||
 |brain4652|:white_check_mark:|||||||
-|likelion-Jiyeong|||||||| 
+|likelion-Jiyeong|:white_check_mark:||||||| 
 
 
 <!-- 체크표 양식
