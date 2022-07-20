@@ -5,8 +5,8 @@
 def solution(s):
     answer = len(s)   # answer값 초기 글자 갯수로 
 
-    for k in range(1, len(s)//2+1):  # 1부터 글자수까지 한개씩 tokenized
-        arr = []
+    for k in range(1, len(s)//2+1):  # 1부터 글자수의 절반까지 tokenized
+        arr = []    # 토큰화된 글자를 담을 리스트
         
         for i in range(0, len(s), k):
             try:
@@ -15,17 +15,17 @@ def solution(s):
                 arr.append(s[i:-1])
 
                 
-        unit = 1      # 연속된 글자를 확인하는 변수
+        unit = 1      # 연속된 글자를 확인하는 변수. 글자 하나를 단위로 보고, unit으로 표현했음
         zipped = ''
         for idx in range(len(arr)):
             try:
                 if arr[idx] == arr[idx+1]:  # 글자가 같은 경우
                     unit += 1
                 else:   # 뒷글자와 앞글자가 같지 않을 때
-                    if unit > 1:
-                        zipped += f'{unit}{arr[idx]}'
+                    if unit > 1:    # 연속되는 글자가 2개 이상일 때
+                        zipped += f'{unit}{arr[idx]}'   # f스트링 사용 시 str를 별도로 해주지 않아 편리
                         unit = 1    # unit을 1로 되돌림 (중요)
-                    else: # unit이 1인 경우는 글자 앞에 숫자를 넣지 않음
+                    else: # 연속되지 않을 때는 숫자를 넣지 않음
                         zipped += arr[idx]
             except: # 맨 마지막 인덱스 처리
                 if unit > 1:  # 이미 unit을 더해주었기 때문에 zipped에 글자토큰을 붙이기만 하면 된다.
