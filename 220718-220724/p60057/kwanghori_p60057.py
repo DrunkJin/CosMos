@@ -27,7 +27,7 @@ def solution(s):
                         unit = 1    # unit을 1로 되돌림 (중요)
                     else: # 연속되지 않을 때는 숫자를 넣지 않음
                         zipped += arr[idx]
-            except: # 맨 마지막 인덱스 처리
+            except IndexError: # 맨 마지막 인덱스 처리
                 if unit > 1:  # 이미 unit을 더해주었기 때문에 zipped에 글자토큰을 붙이기만 하면 된다.
                     zipped += f'{unit}{arr[idx]}'
                     unit = 1
