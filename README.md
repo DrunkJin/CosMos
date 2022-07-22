@@ -175,6 +175,14 @@ ex) update p86051.py (add enumerate method)
 |likelion-Jiyeong|:white_check_mark:||||||| 
 |minyoung2123|:white_check_mark:||||||| 
 
+### week8 (22.07.25 ~ 22.07.31)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
+|------|---|---|---|---|---|---|---|
+|DrunkJin||||||||
+|jeeuney||||||||
+|brain4652||||||||
+|likelion-Jiyeong|||||||| 
+|minyoung2123|||||||| 
 
 
 <!-- 체크표 양식
