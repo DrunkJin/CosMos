@@ -1,8 +1,8 @@
 # 220725-220731 8주차
 ---
-* [b1010 (다리놓기)](https://www.acmicpc.net/problem/1010): 백준 Silver 5
-* [b2851 (슈퍼마리오)](https://www.acmicpc.net/problem/2851) : 백준 Bronze 1
+* [b1010 (다리놓기)](https://www.acmicpc.net/problem/1010): 백준 Silver 5 
 * [b20949 (효정과 새 모니터)](https://www.acmicpc.net/problem/20949) : 백준 Silver 5
+* [b2851 (슈퍼마리오)](https://www.acmicpc.net/problem/2851) : 백준 Bronze 1
 * [p12915 (문자열 내 마음대로 정렬하기)](https://school.programmers.co.kr/learn/courses/30/lessons/12915) : 프로그래머스 1단계
 ---  
 <br>
