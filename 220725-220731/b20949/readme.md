@@ -1,0 +1,1 @@
+* [b20949 (효정과 새 모니터)](https://www.acmicpc.net/problem/20949) : 백준 Silver 5
