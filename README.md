@@ -181,7 +181,7 @@ ex) update p86051.py (add enumerate method)
 |DrunkJin|:white_check_mark:|||||||
 |jeeuney||||||||
 |brain4652||||||||
-|likelion-Jiyeong|||||||| 
+|likelion-Jiyeong|||:white_check_mark:||||| 
 |minyoung2123|||||||| 
 
 
