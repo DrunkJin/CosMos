@@ -191,7 +191,17 @@ ex) update p86051.py (add enumerate method)
 |jeeuney||||||||
 |brain4652||||||||
 |likelion-Jiyeong|||||||| 
-|minyoung2123|||||||| 
+|minyoung2123||||||||  
+
+### week10 (22.08.08 ~ 22.08.14)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
+|------|---|---|---|---|---|---|---|
+|DrunkJin||||||||
+|jeeuney||||||||
+|brain4652||||||||
+|likelion-Jiyeong|||||||| 
+|minyoung2123||||||||  
+
 
 <!-- 체크표 양식
 ### week6 (22.07.11 ~ 22.07.17)
