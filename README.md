@@ -14,7 +14,7 @@
 ## 🚀 참가자
 :man_technologist:  DrunkJin
 <br>
-매일 아주 조금이라도 커밋한다면 실력이 늘지 않을까?
+한걸음 한걸음
 <br>
 
 :woman_technologist:  jeeuney
@@ -196,7 +196,7 @@ ex) update p86051.py (add enumerate method)
 ### week10 (22.08.08 ~ 22.08.14)
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
 |------|---|---|---|---|---|---|---|
-|DrunkJin||||||||
+|DrunkJin||:white_check_mark:||||||
 |jeeuney||||||||
 |brain4652||||||||
 |likelion-Jiyeong|||||||| 
