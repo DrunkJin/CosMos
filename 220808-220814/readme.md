@@ -1,6 +1,6 @@
 # 220808-220814 10주차
 ---
-* [l1 (TwoSum)](https://leetcode.com/problems/two-sum/submissions/) : LeetCode Easy
+* [l1 (TwoSum)](https://leetcode.com/problems/two-sum/) : LeetCode Easy
 * [b2309 (일곱 난쟁이)](https://www.acmicpc.net/problem/2309) : 백준 브론즈 5단계
 * [p12932 (자연수 뒤집어 배열로 만들기)](https://school.programmers.co.kr/learn/courses/30/lessons/12932) : 프로그래머스 1단계
 * [p12940 (최대공약수와 최소공배수)](https://school.programmers.co.kr/learn/courses/30/lessons/12940) : 프로그래머스 1단계
