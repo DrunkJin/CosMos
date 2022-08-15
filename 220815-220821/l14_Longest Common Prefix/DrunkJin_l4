@@ -1,0 +1,27 @@
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        tmp = 201                # 1 <= strs.length <= 200 조건이 있음
+        ans = '' 
+        for i in strs:
+            if tmp > len(i):  # 리스트 중에서 제일 작은 문자를 선별함
+                tmp = len(i)
+                short = i
+        
+        for i in reversed(range(tmp)):  # tmp가 4일때, 3,2,1,0 순서로 들어가게 함
+            cnt = 0
+            for j in strs:
+                if short[:i+1] == j[:i+1]:      # 리스트내 내의 단어들과 제일 짧은 단어들과 비교해서 진행
+                    cnt += 1
+                else:                           # 다를 경우 continue로 for문 처음으로 올라감
+                    continue       
+            if cnt == len(strs):                # 리스트의 갯수와 cnt가 같다면 답은 다음과 같음
+                ans = short[:i+1]
+                break
+        
+        return ans
+    
+    
+        """
+        Runtime: 36 ms, faster than 92.35% of Python3 online submissions for Longest Common Prefix.
+        Memory Usage: 14 MB, less than 50.09% of Python3 online submissions for Longest Common Prefix.
+        """
