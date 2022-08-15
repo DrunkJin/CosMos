@@ -209,7 +209,7 @@ ex) update p86051.py (add enumerate method)
 |jeeuney||||||||
 |brain4652||||||||
 |likelion-Jiyeong|||||||| 
-|minyoung2123|||||||| 
+|minyoung2123|:white_check_mark:||||||| 
 
 
 <!-- 체크표 양식
