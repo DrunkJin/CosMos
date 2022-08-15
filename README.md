@@ -200,7 +200,7 @@ ex) update p86051.py (add enumerate method)
 |jeeuney||||||||
 |brain4652||||||||
 |likelion-Jiyeong|||:white_check_mark:||||| 
-|minyoung2123|:white_check_mark:|||||||  
+|minyoung2123|:white_check_mark:|:white_check_mark:||||||  
 
 ### week11 (22.08.15 ~ 22.08.21)
 |Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
