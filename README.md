@@ -208,7 +208,7 @@ ex) update p86051.py (add enumerate method)
 |DrunkJin|:white_check_mark:|:white_check_mark:|:white_check_mark:|||||
 |jeeuney||||||||
 |brain4652||:white_check_mark:||||||
-|likelion-Jiyeong|||:white_check_mark:||||| 
+|likelion-Jiyeong|||:white_check_mark:||:white_check_mark:||| 
 |minyoung2123|:white_check_mark:||||||| 
 
 ### week12 (22.08.22 ~ 22.08.28)
