@@ -1,4 +1,4 @@
-# 220822-220828 11주차
+# 220822-220828 12주차
 ---
 * [p12973 (짝지어 제거하기)](https://school.programmers.co.kr/learn/courses/30/lessons/12973) : 2017 팁스타운 2단계
 ---  

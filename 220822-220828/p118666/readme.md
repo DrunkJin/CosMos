@@ -1,4 +1,4 @@
-# 220822-220828 11주차
+# 220822-220828 12주차
 ---
 * [p118666 (성격 유형 검사하기)](https://school.programmers.co.kr/learn/courses/30/lessons/118666) : 2022 KAKAO TECH INTERNSHIP 1단계
 

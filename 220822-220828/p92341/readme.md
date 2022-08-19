@@ -1,4 +1,4 @@
-# 220822-220828 11주차
+# 220822-220828 12주차
 ---
 * [p92341 (주차 요금 계산)](https://school.programmers.co.kr/learn/courses/30/lessons/92341) : 2022 KAKAO BLIND RECRUITMENT 2단계
 
