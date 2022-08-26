@@ -7,6 +7,15 @@
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDrunkJin%2FCosMos&count_bg=%23FF963B&title_bg=%23555555&icon=instacart.svg&icon_color=%23FF9420&title=hits&edge_flat=false"/></a>
 </p>
 
+--- 
+# <span style="color:skyblue">공지사항</span>
+* week13 ~ 15 (22.08.29 ~ 09.18) 방학입니다.
+* 휴식을 취하시면서 리프레쉬하시고 그간 못 풀었던 문제가 있다면 이 기간동안 풀어보는 시간을 가지셨으면 좋겠습니다.
+---
+
+<br>
+
+
 >  * 일하더라도 코테!  
 >  * UsefulLibrary.py에는 코테에 유용한 기본 라이브러리가 정리되어 있음  
 >  * 폴더에 들어가보면 readme.md 파일이 폴더 내부에 뜨는데 문제제목을 클릭하면 해당 문제가 있는 사이트로 접속 가능  
@@ -219,6 +228,9 @@ ex) update p86051.py (add enumerate method)
 |brain4652||||||||
 |likelion-Jiyeong|||||||| 
 |minyoung2123|||||||| 
+
+### week13 ~ 15 (22.08.29 ~ 09.18)
+**VACATION**🚩
 
 <!-- 체크표 양식
 ### week11 (22.08.15 ~ 22.08.21)
