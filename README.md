@@ -228,8 +228,14 @@ ex) update p86051.py (add enumerate method)
 |likelion-Jiyeong|||||||| 
 |minyoung2123|||||||| 
 
-### week13 ~ 15 (22.08.29 ~ 09.18)
-**VACATION**🚩
+### week13 (22.09.26 ~ 22.10.02)
+|Author|Mon.|Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
+|------|---|---|---|---|---|---|---|
+|DrunkJin|:white_check_mark:|||||||
+|jeeuney||||||||
+|brain4652||||||||
+|likelion-Jiyeong|||||||| 
+|minyoung2123|||||||| 
 
 <!-- 체크표 양식
 ### week11 (22.08.15 ~ 22.08.21)
