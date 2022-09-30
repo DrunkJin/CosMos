@@ -9,7 +9,7 @@ def solution(s):
         n = ''
         for i in range(s.count('1')):   # 1의 갯수만큼 추가해서 만들어버림
             n += '1'
-        zero += s.count('0') # 0의 개수를 저장
+        zero += s.count('0') # 0의 개수를 저장`
         s = str(bin(len(n))[2:]) # bin(숫자) -> 0b이진법 으로 변환되서 나옴
 
     # 반복횟수랑 0제거갯수 저장
