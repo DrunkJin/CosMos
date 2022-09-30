@@ -6,9 +6,9 @@ def solution(s):
         zero_cnt += s.count('0')    # 제거전 0 갯수 카운트
         cnt = s.count('1')    # 1 갯수 카운트
         s = '1' * cnt     # 갯수만큼 '1' 생성
-        l = len(s)
-        s = bin(l)[2:]
-        cvt += 1
+        l = len(s)      # s의 길이를
+        s = bin(l)[2:]      # 이진 변환
+        cvt += 1        # 이진변환 횟수 카운트
         
     return cvt, zero_cnt
 
