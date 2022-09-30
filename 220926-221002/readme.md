@@ -3,7 +3,7 @@
 ---
 [최댓값과 최솟값](https://school.programmers.co.kr/learn/courses/30/lessons/12939)
 [JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
-
+[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 ---
 
 <br>
