@@ -259,7 +259,16 @@ ex) update p86051.py (add enumerate method)
 ### week16 (22.10.17 ~ 22.10.23)
 |Author|Mon.| Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
 |------|---|---|---|---|---|---|---|
-|DrunkJin|:white_check_mark:|:white_check_mark:||||||
+|DrunkJin|:white_check_mark:|:white_check_mark:|||:white_check_mark:|||
+|jeeuney||||||||
+|brain4652||||||||
+|likelion-Jiyeong|||||||| 
+|minyoung2123|||||||| 
+
+### week17 (22.10.24 ~ 22.10.30)
+|Author|Mon.| Tue.|Wed.|Thu.|Fri.|Sat.|Sun.|
+|------|--|---|---|---|---|---|---|
+|DrunkJin||||||||
 |jeeuney||||||||
 |brain4652||||||||
 |likelion-Jiyeong|||||||| 
