@@ -3,6 +3,8 @@
 cnt를 통해서 n칸만큼의 횟수를 체크함
  pre_result : 이전 스텝에서 가능한 방법 수
  result : 현재 칸에서 가능한 방법 수
+
+ ++++ else문으로 뺄 필요가 없어서 수정함
 """
 def solution(n):
     cnt = 0
@@ -11,8 +13,7 @@ def solution(n):
     while True:
         if n == cnt:
             return result % 1234567
-        else:
-            cnt += 1
-            tmp = result
-            result += pre_result
-            pre_result = tmp
+        cnt += 1
+        tmp = result
+        result += pre_result
+        pre_result = tmp
